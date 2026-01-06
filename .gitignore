@@ -1,0 +1,94 @@
+HEAD
+# Ignore virtual environments
+venv/
+.idea/
+__pycache__/
+*.pyc
+*.log
+rev1.txt
+
+# Ignore sensitive files
+credentials.json
+old_credentials.json
+token.json
+contacts.csv
+user_data.csv
+dataset.csv
+os_dataset.csv
+web_Dataset.csv
+PyWhatKit_DB.txt
+
+# Ignore media files and big files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.wav
+*.mp3
+*.mp4
+*.avi
+Downloads/
+Videos/
+Utube_Videos_Downloaded/
+JarvisGUI/FaceRecogGUI/faceImages/
+JarvisGUI/FaceRecogGUI/videoss/
+
+# Ignore development files
+seleniumTestings/
+Report/
+*.side
+*.pyproject.user
+loading.py
+sample.py
+chumma.py
+chumma2.py
+
+# Ignore virtual environments
+venv/
+.idea/
+__pycache__/
+*.pyc
+*.log
+rev1.txt
+
+# Ignore sensitive files
+credentials.json
+old_credentials.json
+token.json
+contacts.csv
+user_data.csv
+dataset.csv
+os_dataset.csv
+web_Dataset.csv
+PyWhatKit_DB.txt
+
+# Ignore media files and big files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.wav
+*.mp3
+*.mp4
+*.avi
+Downloads/
+Videos/
+Utube_Videos_Downloaded/
+JarvisGUI/FaceRecogGUI/faceImages/
+JarvisGUI/FaceRecogGUI/videoss/
+JarvisGUI/.qtcreator/
+JarvisGUI/FaceRecogGUI/.qtcreator/
+JarvisGUI/LoginUI/.qtcreator/
+**/.qtcreator/
+
+
+# Ignore development files
+seleniumTestings/
+Report/
+*.side
+*.pyproject.user
+loading.py
+sample.py
+chumma.py
+chumma2.py
+

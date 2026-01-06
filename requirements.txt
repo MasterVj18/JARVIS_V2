@@ -1,0 +1,69 @@
+# Core GUI Framework
+PyQt5>=5.15.0
+PyQt6>=6.0.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+face-recognition>=1.3.0
+dlib>=19.22.0
+Pillow>=8.3.0
+
+# Speech Recognition and Synthesis
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+pyaudio>=0.2.11
+
+# Web Automation and Scraping
+selenium>=4.0.0
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+webdriver-manager>=3.8.0
+
+# WhatsApp and Communication
+pywhatkit>=5.3
+pyautogui>=0.9.53
+
+# API and Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# News and Weather APIs
+newsapi-python>=0.2.6
+python-dotenv>=0.19.0
+
+# Email functionality
+smtplib  # Built-in
+email-validator>=1.1.3
+
+# Audio and Media
+pygame>=2.0.0
+mutagen>=1.45.0
+
+# YouTube functionality
+pytube>=11.0.0
+youtube-dl>=2021.6.6
+
+# Google Services
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.5.0
+
+# System Integration
+psutil>=5.8.0
+keyboard>=0.13.5
+mouse>=0.7.1
+
+# Natural Language Processing
+nltk>=3.6.0
+textblob>=0.15.3
+
+# JSON and Configuration
+jsonschema>=3.2.0
+
+# Date and Time
+python-dateutil>=2.8.0
+schedule>=1.1.0
+
+# Gesture Recognition
+mediapipe>=0.8.7
