@@ -50,7 +50,7 @@ pywhatkit (WhatsApp automation)
 🚀 Quick Start
 1. Initial Setup
 # Clone the repository
-git clone <https://github.com/harriik/Jarvis.git>
+git clone <https://github.com/mastervj18/Jarvis-v2.git>
 cd jarvis-ai-assistant
 
 # Install dependencies
